@@ -16,4 +16,3 @@ public class HelloWorld {
 
     }
 }
-/home/vardang/dev/projects/Trainings/HelloWorld
